@@ -1,0 +1,18 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title 
+{
+    text-align: left;
+    font-size: 48pt;
+}
+
+.general
+{
+    font-size: 20pt;
+}
