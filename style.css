@@ -12,13 +12,24 @@ h1 {
     font-size: 48pt;
 }
 
-.general
+.paragraph
 {
-    font-size: 20pt;
+    font-size: 13pt;
+    line-height: normal;
 }
 
 *
 {
 background-color: #031926;
 color: white;
+left: 10px;
+}
+
+:any-link{text-decoration:none;}
+
+footer 
+{
+    position: absolute;
+    left: 10pt;
+	bottom: 75px;
 }
