@@ -10,20 +10,18 @@ h1 {
 {
     text-align: left;
     font-size: 48pt;
+    
 }
 
 .paragraph
 {
     font-size: 13pt;
     line-height: normal;
+    line-break;
+
 }
 
-*
-{
-background-color: #031926;
-color: white;
-left: 10px;
-}
+
 
 :any-link{text-decoration:none;}
 
@@ -32,4 +30,10 @@ footer
     position: absolute;
     left: 10pt;
 	bottom: 75px;
+}
+
+*
+{
+    background-color: #031926;
+    color:white;
 }
