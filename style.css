@@ -1,10 +1,4 @@
-body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .title
 {
@@ -22,10 +16,12 @@ h1 {
 
 footer 
 {
-    padding-top: 30px;
-    position: absolute;
-    left: 10pt;
+    position: fixed;
     color: white;
+    left: 20;
+    bottom: 0;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
 html, body
@@ -52,3 +48,9 @@ text-align: left;
 :any-link{color: white;}
 
 body{background-color: #1d1d1d;}
+
+*{font-family: "PT Sans",sans-serif;}
+
+h2{font-size: 30px; margin-bottom: 0%;}
+
+p{font-size: 18px;}
