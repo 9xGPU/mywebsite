@@ -22,9 +22,10 @@ h1 {
 
 footer 
 {
+    padding-top: 30px;
     position: absolute;
     left: 10pt;
-	bottom: 75px;
+    color: white;
 }
 
 html, body
@@ -36,12 +37,18 @@ html, body
 {
     background-color: #1d1d1d;
     color: white;
-    display:flexbox;
+    display: flex;
 }
 
 .content
 {
 padding-left: 20px;
+display: flexbox;
+background-color: #1d1d1d;
+color: white;
+text-align: left;
 }
 
 :any-link{color: white;}
+
+body{background-color: #1d1d1d;}
