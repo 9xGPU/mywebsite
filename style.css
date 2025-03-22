@@ -16,7 +16,7 @@
 
 footer 
 {
-    position: fixed;
+    position:relative;
     color: white;
     left: 20;
     bottom: 0;
