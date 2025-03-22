@@ -16,7 +16,7 @@
 
 footer 
 {
-    position:sticky;
+    position:absolute;
     color: white;
     padding-bottom: 20px;
     padding-left: 20px;
